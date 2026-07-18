@@ -1,9 +1,11 @@
 {
   "name": "razbor",
-  "owner": { "name": "krasnodar-sky" },
+  "owner": {
+    "name": "krasnodar-sky"
+  },
   "metadata": {
     "description": "razbor — харнес-конвейер разбора проблем (интейк → критерий → диагностика → решение → верификация → фиксация)",
-    "version": "1.0.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
